@@ -10,7 +10,7 @@ HW6A Updates Here
 2. Slideshow changes when clicked at different glazing options
 3. Cart item amount indicator is updated
 4. A dummy cart page is added - but fully functional on its own: you can edit the amount and the total price will be updated
-5. Oh, and please add *Blueberry Rolls* - haven't finished other item pages yet.
+5. Oh, and please add *Blueberry Rolls* - haven't finished other item pages yet
 
 ## Notes
 The cart page is currently with dummy rows - it does not reflect the items you added. I'll update those in assignment partB.
