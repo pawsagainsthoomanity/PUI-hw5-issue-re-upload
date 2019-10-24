@@ -1,0 +1,89 @@
+<!doctype html>
+
+<html lang='en'>
+<head>
+  <meta charset='utf-8'>
+  <title>Bun Bun Bake Shop</title>
+  <meta name='author' content='Zhuona Ma'>
+  <meta name='viewport' content='width=device-width, maximun-scale=1, user-scalable=no'>
+  <link rel='stylesheet' type='text/css' href='cartstyle.css'> 
+  <link href='https://fonts.googleapis.com/css?family=Work+Sans:400,500&display=swap' rel='stylesheet'>
+  <script src='main.js' async></script>
+  
+</head>
+<body>
+  <header>
+    <img class='logo' src='logofile.png' width='120' height='120' alt='Bun Bun logo'>
+    <nav>
+        <ul class='navbar'>
+            <li><a href='./index.html'>HOME</a></li>
+            <li><a href='./index.html#section-menu'>MENU</a></li>
+            <li><a href='./index.html#section-about'>ABOUT</a></li>
+        </ul>
+    </nav>
+    <a class='cart' href='#'>CART(0)</a>
+  </header>
+
+  <div class='title'>
+    Your Cart
+  </div>
+
+  <div class='cart'>
+    <div class='item'>
+      <div class='cart-item-thumbnail'>
+        <div class='item-img'></div>
+      </div>
+
+      <div class='cart-item-name'>
+          <h1>Blueberry Roll</h1>
+          <div class='inline glazing'>
+            <p class='inline'>Glazing: </p>
+            <p class='inline glazing-option'>Double Chocolate</p>
+          </div>
+          <div class='quantity'>
+            <p class='inline'>Quantity: </p>
+            <input class='inline quantity-input' type='number' min='1' max='12' value='2' onchange='update()'>
+            <p class='inline'>x</p>
+            <p class='inline item-price'>$5.00</p>
+          </div>
+      </div>
+
+      <div class='cart-item-remove'>
+          <button class='btn'>REMOVE</button>
+      </div>
+    </div>
+
+
+    <div class='item'>
+      <div class='cart-item-thumbnail'>
+        <div class='item-img'></div>
+      </div>
+
+      <div class='cart-item-name'>
+          <h1>Blueberry Roll</h1>
+          <div class='inline glazing'>
+            <p class='inline'>Glazing: </p>
+            <p class='inline glazing-option'>Double Chocolate</p>
+          </div>
+          <div class='quantity'>
+            <p class='inline'>Quantity: </p>
+            <input class='inline quantity-input' type='number' value='2' min='1' max='12' onchange='update()'>
+            <p class='inline'>x</p>
+            <p class='inline item-price'>$5</p>
+          </div>
+      </div>
+
+      <div class='cart-item-remove'>
+          <button class='btn'>REMOVE</button>
+      </div>
+    </div>
+
+  </div>
+  <hr>
+  <div class='checkout-container'>
+    <div class='total-amount'>
+      <h1 class='inline'>Total Amount:<h1>
+      <h1 class='inline amount'>$0</h1>
+    </div>
+  </div>
+</div>

@@ -310,14 +310,15 @@ button:hover{
 }
 
 .demo{
-    width: 100px;
-    height: 100px;
+    width: 90px;
+    height: 90px;
     object-fit: cover;
+    opacity: 0.8;
 }
 
 .big-demo{
-    width: 400px;
-    height: 400px;
+    width: 376px;
+    height: 376px;
     object-fit: cover;
 }
 
@@ -359,4 +360,10 @@ button:hover{
     background-color: #753112;
 }
 
+.focused{
+    width: 90px;
+    height: 90px;
+    object-fit: cover;
+    opacity: 1.0;
+}
 
