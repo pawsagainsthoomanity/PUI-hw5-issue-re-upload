@@ -3,7 +3,7 @@ HW6A Updates Here
 ## Deliverables
 [InVision Link](https://projects.invisionapp.com/prototype/ck0udh7lz0030we0178ca3nly/play) - The updated hi-fi screens 
 
-Lo-fi screen is "lofiscreen.pdf" at root directory
+[Lo-Fi Sketches](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:1acffbaf-d3f2-4985-96ed-23891c565eaa) - The draft updated features 
 
 ## Features Added
 1. Click thumbnails to display img in slideshow in product detail page
