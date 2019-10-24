@@ -1,4 +1,4 @@
-# PUI-hw5-issue-re-upload
+# PUI-HW6 (updates from HW5)
 HW6A Updates Here
 ## Deliverables
 [InVision Link](https://projects.invisionapp.com/prototype/ck0udh7lz0030we0178ca3nly/play) - The updated hi-fi screens 
