@@ -1,7 +1,8 @@
 # PUI-hw5-issue-re-upload
 HW6A Updates Here
 ## Deliverables
-[InVision Link](https://projects.invisionapp.com/prototype/ck0udh7lz0030we0178ca3nly/play) - The updated hi-fi screens
+[InVision Link](https://projects.invisionapp.com/prototype/ck0udh7lz0030we0178ca3nly/play) - The updated hi-fi screens 
+
 Lo-fi screen is "lofiscreen.pdf" at root directory
 
 ## Features Added
